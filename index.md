@@ -6,12 +6,12 @@ My github [page](https://github.com/yuchenliu39).
 
 *  Lab 1
    
-   Lab 1, part 1 was a favorite, because it helped open me to the world of programming. Althought it seems simple now, it was really racking my brains at that time.
+   Lab 1, part 1 was a favorite, because it intorduced me to the world of programming, even through the exercises seemed simple in retrospect, thry challenged me and required me to think deeply at the time.
 
 *  Lab 7
    
-   Lab 7, part 2 was a favorite, because it allows me to use code to interpret the game of blackjack, and after we finished coding we can identifying the point of my cards and calculating the total sum of cards.
+   Lab 7, part 2 was a favorite, because it enables me to utilize programming code, particularly boolean and if-else statements, to analyze the game of blackjack. This involves identifying thr point values of each card and ultimately computing the sum of my hand.
 
 *  Lab 8
    
-   lab 8, part 1 was a favorite, because this is my first contact with nesting loop, by doing this lab 8 J have better understanding of nesting loop, also through nesting loop I successfully created a graph with code.
+   lab 8, part 1 was a favorite, because it was my initial exposure to the concept of nesting loops. This new skill was put into practice when I successfully created a graph using code, which was an exciting accomplishment. Being able to use this fundamental coding technique gave me a great sence of satisfaction and motivated me to continue exploring more complex applications of loop nesting in my future coding endeavors.
