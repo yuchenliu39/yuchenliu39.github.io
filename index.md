@@ -14,4 +14,4 @@ My github [page](https://github.com/yuchenliu39).
 
 *  Lab 8
    
-   lab 8, part 1 was a favorite, because it was my initial exposure to the concept of nesting loops. This new skill was put into practice when I successfully created a graph using code, which was an exciting accomplishment. Being able to use this fundamental coding technique gave me a great sence of satisfaction and motivated me to continue exploring more complex applications of loop nesting in my future coding endeavors.
+   Lab 8, part 1 was a favorite, because it was my initial exposure to the concept of nesting loops. This new skill was put into practice when I successfully created a graph using code, which was an exciting accomplishment. Being able to use this fundamental coding technique gave me a great sence of satisfaction and motivated me to continue exploring more complex applications of loop nesting in my future coding endeavors.
