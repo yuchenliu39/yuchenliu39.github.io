@@ -6,11 +6,11 @@ My github [page](https://github.com/yuchenliu39).
 
 *  Lab 1
    
-   Lab 1, part 1 was a favorite, because it intorduced me to the world of programming, even through the exercises seemed simple in retrospect, thry challenged me and required me to think deeply at the time.
+   Lab 1, part 1 was a favorite, it's a simple lab that requires writing a program to output "Hello World". Initially, I fouund it confusing to work with input and output. But, after completing the lab, I mastered using input and output and also became more familiar with terminal commands. Through this lab, I learned how to write, compile, and run programs correctly.
 
 *  Lab 7
    
-   Lab 7, part 2 was a favorite, because it enables me to utilize programming code, particularly boolean and if-else statements, to analyze the game of blackjack. This involves identifying thr point values of each card and ultimately computing the sum of my hand.
+   Lab 7, part 2 was a favorite, because it allowed me to use programming code to simulate the game of blackjack, we utilized boolean and if-else statements to analyze the game of blackjack, which involved identifying the point values of each card and computing the sum. By completing this lab, I gained a deeper understanding of programming concepts such as conditional statements.
 
 *  Lab 8
    
