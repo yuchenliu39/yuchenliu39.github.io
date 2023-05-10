@@ -1,5 +1,5 @@
 # Hello World
-This is my home page! My name is Yuchen Liu and I am a student at [Cal state Fullerton](https://www.fullerton.edu/).
+This is my home page! My name is Yuchen Liu and I am a student at [Cal state Fullerton](https://www.fullerton.edu/). My major is computer science.
 ## Computer Science Projects
 My github [page](https://github.com/yuchenliu39).
 ### CPSC 120
